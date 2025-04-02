@@ -1,0 +1,5 @@
+com/CB/TaskManager/TaskService.class
+com/CB/TaskManager/TaskManagerApplication.class
+com/CB/TaskManager/Task.class
+com/CB/TaskManager/TaskController.class
+com/CB/TaskManager/TaskRepository.class
